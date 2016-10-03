@@ -1,0 +1,5 @@
+node_modules
+src/cmd.bat
+src/test.ls
+test.js
+.npmignore
