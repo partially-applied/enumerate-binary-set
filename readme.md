@@ -1,4 +1,4 @@
-`@partially-applied/enumerate-binary-set`
+
 
 For a  given integer<sub>10</sub> *x* , it generates the range of integers<sub>2</sub> up to *x*.
 
